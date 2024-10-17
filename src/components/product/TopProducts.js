@@ -59,7 +59,7 @@ const TopProducts = () => {
                 }
                 <div className="card products_card browse_card">
                     <Link to="/all-products">
-                        Browse All <br /> Products <BsArrowRight />
+                        Xem tất cả <BsArrowRight />
                     </Link>
                 </div>
             </div>
